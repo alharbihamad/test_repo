@@ -8,6 +8,6 @@ deg = 180 .* (rad ./ pi);
 
 % test2
 
-% test3
+% tst3
 
 % test4
